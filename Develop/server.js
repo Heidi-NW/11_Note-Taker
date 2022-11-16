@@ -1,8 +1,11 @@
 // Add dependencies
 const express = require('express');
 const path = require('path');
+const bodyParser = require('body-parser');
 
-const app = express();
+const app = express()
+// Set port
+const PORT = process.env.PORT || 3000;
 
 // Set up middleware
 app.use(express.urlencoded({ extended: true }));
@@ -13,5 +16,6 @@ app.use(express.static('./public'));
 require('./routes/api-route')(app);
 require('./routes/html-routes')(app);
 
-//listen to port
-app.listen(3000);
+app.listen(PORT, ()=> {
+	console.log("Listening Port 3000");
+});
