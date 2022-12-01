@@ -8,6 +8,7 @@ Click on "Get Started" button
 
 ### Step 2
 On Note Taker page, add a Note Title and type your task under Note Text Body, then hit 128190	save icon	on the top right corner.
+<img width="1333" alt="Screen Shot 2022-11-30 at 9 57 36 PM" src="https://user-images.githubusercontent.com/108437457/204957182-bc8b901f-b314-4694-a102-494816b4f3fc.png">
 
 
 
