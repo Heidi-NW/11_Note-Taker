@@ -2,7 +2,6 @@
 This Note-Taker App will help you organize & keep track of your taks.
 
 ### Step 1
-Go to http://localhost:3000/
 Click on "Get Started" button
 <img width="1472" alt="Screen Shot 2022-11-30 at 9 52 40 PM" src="https://user-images.githubusercontent.com/108437457/204957618-5998fdd8-eefd-41b7-9efb-89ff95079be9.png">
 
